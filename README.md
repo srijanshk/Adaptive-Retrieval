@@ -159,7 +159,7 @@ rag_pw/
 #### 1.2 Clone Repository
 
 ```bash
-git clone https://github.com/srijanshk/adaptive-retrieval.git
+git clone [https://github.com/srijanshk/adaptive-retrieval.git](https://github.com/srijanshk/Adaptive-Retrieval.git)
 cd rag_pw
 ```
 
