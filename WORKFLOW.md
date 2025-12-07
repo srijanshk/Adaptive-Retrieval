@@ -8,7 +8,7 @@ This guide walks through the complete workflow of the RAG project, from initial 
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/srijanshk/rag_pw.git
+git clone https://github.com/srijanshk/Adaptive-Retrieval.git
 cd rag_pw
 
 # 2. Create environment
